@@ -35,4 +35,5 @@ python detector.py
 
 ## References
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+- [ByteTrack](https://github.com/ifzhang/ByteTrack)
 
