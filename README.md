@@ -32,3 +32,7 @@ Then run this command:
 ```bash
 python detector.py
 ```
+
+## References
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+
