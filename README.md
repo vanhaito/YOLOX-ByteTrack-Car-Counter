@@ -2,7 +2,7 @@
 Object tracking implemented with YOLOX, ByteTrack and Pytorch. We can take the ouput of YOLOX feed these object detections into ByteTrack in order to create a highly accurate object tracker. I have created a custom function within the file [detector.py](https://github.com/vanhaito/YOLOX-ByteTrack-Car-Counter/blob/master/detector.py) that can be used to count and keep track of the number of cars detected at a given moment within each video. In can be used to count total cars found or can count number of cars detected.
 
 ## Demo of Car Counter in Action
-
+![](https://github.com/vanhaito/YOLOX-ByteTrack-Car-Counter/blob/master/YOLOX/assets/demo.gif)
 
 ## Getting started
 ### Pip
