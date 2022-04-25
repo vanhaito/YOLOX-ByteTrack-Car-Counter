@@ -1,0 +1,16 @@
+Pillow
+loguru
+ninja
+numpy
+onnx-simplifier==0.3.5
+onnx==1.8.1
+onnxruntime==1.8.0
+opencv_python
+pycocotools>=2.0.2
+scikit-image
+tabulate
+tensorboard
+thop
+torch>=1.7
+torchvision
+tqdm

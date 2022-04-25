@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+env
+process_img.py
+preprocessing_plate.py
+yolox_s.pth.tar
+YOLOX/YOLOX_outputs/yolox_s/vis_res
+YOLOX/YOLOX_outputs/yolox_s/model_trt.engine
+YOLOX/YOLOX_outputs/yolox_s/model_trt.pth
+YOLOX/yolox_s.pth
+8.mp4
