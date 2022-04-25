@@ -140,7 +140,7 @@ if __name__=='__main__':
     fps = 0
 
     # create filter class
-    filter_class = [2,5,7]
+    filter_class = [2]
 
     # init variable for counting object
     memory = {}
