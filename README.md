@@ -29,6 +29,7 @@ python tools/trt.py -n yolox-s -c yolox_s.pth
 ## Runing Car Counter with YOLOX-s
 In file [detector.py](https://github.com/vanhaito/YOLOX-ByteTrack-Car-Counter/blob/master/detector.py) you need to replace the file video name in line 131:
 ![](https://github.com/vanhaito/YOLOX-ByteTrack-Car-Counter/blob/master/YOLOX/assets/filename.png). 
+
 Then run this command:
 ```bash
 python detector.py
