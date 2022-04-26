@@ -16,7 +16,7 @@ pip install -v -e .
 Make sure to use CUDA Toolkit version 11.2 as it is the proper version for the Torch version used in this repository: https://developer.nvidia.com/cuda-11.2.0-download-archive
 
 ### torch2trt
-clone this repository and install: https://github.com/NVIDIA-AI-IOT/torch2trt 
+Clone this repository and install: https://github.com/NVIDIA-AI-IOT/torch2trt 
 
 ## Download a pretrained model
 Download pretrained yolox_s.pth file: https://github.com/Megvii-BaseDetection/YOLOX/releases/download/0.1.1rc0/yolox_s.pth
