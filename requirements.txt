@@ -20,5 +20,4 @@ openvino==2021.4.0
 PyYAML==5.4.1
 seaborn==0.11.1
 tensorrt==0.0.1
-torch2trt
 torch
