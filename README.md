@@ -17,7 +17,7 @@ Make sure to use CUDA Toolkit version 11.2 as it is the proper version for the T
 https://developer.nvidia.com/cuda-11.2.0-download-archive
 
 ### torch2trt
-![](https://github.com/NVIDIA-AI-IOT/torch2trt)
+https://github.com/NVIDIA-AI-IOT/torch2trt clone this repo and install
 
 ## Download a pretrained model
 Download pretrained yolox_s.pth file: https://github.com/Megvii-BaseDetection/YOLOX/releases/download/0.1.1rc0/yolox_s.pth
