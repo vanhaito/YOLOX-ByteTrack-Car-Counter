@@ -23,7 +23,7 @@ Download pretrained yolox_s.pth file: https://github.com/Megvii-BaseDetection/YO
 
 Copy and paste yolox_s.pth from your downloads folder into the 'YOLOX' folder of this repository.
 
-## Conver model to TensorRT
+## Convert model to TensorRT
 ```bash
 python tools/trt.py -n yolox-s -c yolox_s.pth
 ```
