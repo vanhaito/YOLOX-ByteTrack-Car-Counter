@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 
 def vis(img, boxes, scores, cls_ids, conf=0.5, class_names=None):
+
     for i in range(len(boxes)):
         box = boxes[i]
         cls_id = int(cls_ids[i])
@@ -34,7 +35,10 @@ def vis(img, boxes, scores, cls_ids, conf=0.5, class_names=None):
     return img
 
 
+
+
 def vis_track(img, boxes):
+    
     for i in range(len(boxes)):
         box = boxes[i]
 
@@ -62,6 +66,7 @@ def vis_track(img, boxes):
             -1
         )
         cv2.putText(img, text, (x0, y0 + txt_size[1]), font, 0.4, txt_color, thickness=1)
+
     return img
 
 
